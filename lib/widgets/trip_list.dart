@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:our_go/models/trip.dart';
-import 'package:our_go/services/api_service.dart';
+import 'package:ourgo_app/models/trip.dart';
+import 'package:ourgo_app/services/api_service.dart';
 
 class TripList extends StatefulWidget {
   const TripList({super.key});

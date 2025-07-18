@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:our_go/models/new_trip.dart';
-import 'package:our_go/services/api_service.dart';
+import 'package:ourgo_app/models/new_trip.dart';
+import 'package:ourgo_app/services/api_service.dart';
 
 class AddTripScreen extends StatefulWidget {
   final VoidCallback onTripAdded;

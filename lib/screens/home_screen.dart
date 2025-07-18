@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:our_go/screens/add_trip_screen.dart';
-import 'package:our_go/widgets/trip_list.dart';
+import 'package:ourgo_app/screens/add_trip_screen.dart';
+import 'package:ourgo_app/widgets/trip_list.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
