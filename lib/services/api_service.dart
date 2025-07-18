@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:math';
-import 'package:our_go/models/new_trip.dart';
-import 'package:our_go/models/trip.dart';
+import 'package:ourgo_app/models/new_trip.dart';
+import 'package:ourgo_app/models/trip.dart';
 
 class ApiService {
   // Base URL of the API. This would be a real URL in a production app.
